@@ -1,0 +1,33 @@
+_repo: A-brief-course-in-the-teaching-process_72495
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Strayer, George D. (George Drayton)
+    alias: Strayer, George Drayton
+    birthdate: 1876
+    deathdate: 1962
+    gutenberg_agent_id: '4563'
+    url: http://www.gutenberg.org/2009/agents/4563
+description: ''
+gutenberg_issued: '2023-12-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72495'
+language: en
+pgterms:marc904: https://archive.org/details/briefcourseintea00stra/page/n5/mode/2up
+pgterms:marc905: 20200708164510strayerphd
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Charlene Taylor, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bThe MacMillan Company, $c1911, copyright 1916.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Teaching'
+- !lcc 'LB'
+- GITenberg
+title: A brief course in the teaching process
+url: http://www.gutenberg.org/ebooks/72495
